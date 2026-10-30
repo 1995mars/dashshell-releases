@@ -4,6 +4,8 @@
 terminal thật** nhiều tab, ghi chú, theo dõi hạn mức Claude Code / Codex / Antigravity và báo qua Telegram khi agent
 AI chạy xong.
 
+![Giao diện DashShell](screenshot.png)
+
 Repo này chỉ chứa **bản cài đặt**.
 
 ## ⬇️ Tải về
